@@ -1,0 +1,1950 @@
+[submodule "repos/asdf-dotnet"]
+	path = repos/asdf-dotnet
+	url = https://github.com/hensou/asdf-dotnet
+[submodule "repos/asdf-dotnet-core"]
+	path = repos/asdf-dotnet-core
+	url = https://github.com/emersonsoares/asdf-dotnet-core
+[submodule "repos/asdf-1password-cli"]
+	path = repos/asdf-1password-cli
+	url = https://github.com/NeoHsu/asdf-1password-cli
+[submodule "repos/asdf-act"]
+	path = repos/asdf-act
+	url = https://github.com/grimoh/asdf-act
+[submodule "repos/action-validator"]
+	path = repos/action-validator
+	url = https://github.com/mpalmer/action-validator
+[submodule "repos/asdf-actionlint"]
+	path = repos/asdf-actionlint
+	url = https://github.com/crazy-matt/asdf-actionlint
+[submodule "repos/asdf"]
+	path = repos/asdf
+	url = https://gitlab.com/td7x/asdf/adr-tools
+[submodule "repos/asdf-ag"]
+	path = repos/asdf-ag
+	url = https://github.com/koketani/asdf-ag
+[submodule "repos/asdf-age"]
+	path = repos/asdf-age
+	url = https://github.com/threkk/asdf-age
+[submodule "repos/asdf-agebox"]
+	path = repos/asdf-agebox
+	url = https://github.com/slok/asdf-agebox
+[submodule "repos/asdf-air"]
+	path = repos/asdf-air
+	url = https://github.com/pdemagny/asdf-air
+[submodule "repos/asdf-aks-engine"]
+	path = repos/asdf-aks-engine
+	url = https://github.com/robsonpeixoto/asdf-aks-engine
+[submodule "repos/asdf-alias"]
+	path = repos/asdf-alias
+	url = https://github.com/andrewthauer/asdf-alias
+[submodule "repos/asdf-allure"]
+	path = repos/asdf-allure
+	url = https://github.com/comdotlinux/asdf-allure
+[submodule "repos/asdf-alp"]
+	path = repos/asdf-alp
+	url = https://github.com/asdf-community/asdf-alp
+[submodule "repos/asdf-amass"]
+	path = repos/asdf-amass
+	url = https://github.com/dhoeric/asdf-amass
+[submodule "repos/asdf-amazon-ecr-credential-helper"]
+	path = repos/asdf-amazon-ecr-credential-helper
+	url = https://github.com/dex4er/asdf-amazon-ecr-credential-helper
+[submodule "repos/asdf-ambient"]
+	path = repos/asdf-ambient
+	url = https://github.com/jtakakura/asdf-ambient
+[submodule "repos/asdf-pyapp"]
+	path = repos/asdf-pyapp
+	url = https://github.com/amrox/asdf-pyapp
+[submodule "repos/asdf-ant"]
+	path = repos/asdf-ant
+	url = https://github.com/jackboespflug/asdf-ant
+[submodule "repos/asdf-jmeter"]
+	path = repos/asdf-jmeter
+	url = https://github.com/comdotlinux/asdf-jmeter
+[submodule "repos/asdf-apollo-router"]
+	path = repos/asdf-apollo-router
+	url = https://github.com/safx/asdf-apollo-router
+[submodule "repos/asdf-arc"]
+	path = repos/asdf-arc
+	url = https://github.com/ORCID/asdf-arc
+[submodule "repos/asdf-argo"]
+	path = repos/asdf-argo
+	url = https://github.com/sudermanjr/asdf-argo
+[submodule "repos/asdf-argo-rollouts"]
+	path = repos/asdf-argo-rollouts
+	url = https://github.com/abatilo/asdf-argo-rollouts
+[submodule "repos/asdf-argocd"]
+	path = repos/asdf-argocd
+	url = https://github.com/beardix/asdf-argocd
+[submodule "repos/asdf-aria2"]
+	path = repos/asdf-aria2
+	url = https://github.com/asdf-community/asdf-aria2
+[submodule "repos/asdf-asciidoctorj"]
+	path = repos/asdf-asciidoctorj
+	url = https://github.com/gliwka/asdf-asciidoctorj
+[submodule "repos/asdf-assh"]
+	path = repos/asdf-assh
+	url = https://github.com/zekker6/asdf-assh
+[submodule "repos/asdf-copilot"]
+	path = repos/asdf-copilot
+	url = https://github.com/NeoHsu/asdf-copilot
+[submodule "repos/asdf-aws-amplify-cli"]
+	path = repos/asdf-aws-amplify-cli
+	url = https://github.com/LozanoMatheus/asdf-aws-amplify-cli
+[submodule "repos/asdf-aws-iam-authenticator"]
+	path = repos/asdf-aws-iam-authenticator
+	url = https://github.com/zekker6/asdf-aws-iam-authenticator
+[submodule "repos/asdf-aws-nuke"]
+	path = repos/asdf-aws-nuke
+	url = https://github.com/bersalazar/asdf-aws-nuke
+[submodule "repos/asdf-aws-sso-cli"]
+	path = repos/asdf-aws-sso-cli
+	url = https://github.com/adamcrews/asdf-aws-sso-cli
+[submodule "repos/asdf-awscli"]
+	path = repos/asdf-awscli
+	url = https://github.com/MetricMike/asdf-awscli
+[submodule "repos/asdf-awscli-local"]
+	path = repos/asdf-awscli-local
+	url = https://github.com/paulo-ferraz-oliveira/asdf-awscli-local
+[submodule "repos/asdf-aws-vault"]
+	path = repos/asdf-aws-vault
+	url = https://github.com/karancode/asdf-aws-vault
+[submodule "repos/asdf-awsls"]
+	path = repos/asdf-awsls
+	url = https://github.com/chessmango/asdf-awsls
+[submodule "repos/asdf-awsrm"]
+	path = repos/asdf-awsrm
+	url = https://github.com/chessmango/asdf-awsrm
+[submodule "repos/asdf-awsweeper"]
+	path = repos/asdf-awsweeper
+	url = https://github.com/chessmango/asdf-awsweeper
+[submodule "repos/asdf-azure-cli"]
+	path = repos/asdf-azure-cli
+	url = https://github.com/EcoMind/asdf-azure-cli
+[submodule "repos/asdf-azure-functions-core-tools"]
+	path = repos/asdf-azure-functions-core-tools
+	url = https://github.com/daveneeley/asdf-azure-functions-core-tools
+[submodule "repos/asdf-babashka"]
+	path = repos/asdf-babashka
+	url = https://github.com/pitch-io/asdf-babashka
+[submodule "repos/asdf-balena-cli"]
+	path = repos/asdf-balena-cli
+	url = https://github.com/boatkit-io/asdf-balena-cli
+[submodule "repos/asdf-bashbot"]
+	path = repos/asdf-bashbot
+	url = https://github.com/mathew-fleisch/asdf-bashbot
+[submodule "repos/asdf-bat"]
+	path = repos/asdf-bat
+	url = https://gitlab.com/wt0f/asdf-bat
+[submodule "repos/asdf-batect"]
+	path = repos/asdf-batect
+	url = https://github.com/johnlayton/asdf-batect
+[submodule "repos/asdf-bats"]
+	path = repos/asdf-bats
+	url = https://github.com/timgluz/asdf-bats
+[submodule "repos/asdf-bazel"]
+	path = repos/asdf-bazel
+	url = https://github.com/rajatvig/asdf-bazel
+[submodule "repos/tanzu-plug-in-for-asdf"]
+	path = repos/tanzu-plug-in-for-asdf
+	url = https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf
+[submodule "repos/benthos-asdf"]
+	path = repos/benthos-asdf
+	url = https://github.com/benthosdev/benthos-asdf
+[submodule "repos/asdf-bin"]
+	path = repos/asdf-bin
+	url = https://github.com/joe733/asdf-bin
+[submodule "repos/asdf-binnacle"]
+	path = repos/asdf-binnacle
+	url = https://github.com/Traackr/asdf-binnacle
+[submodule "repos/asdf-bitwarden"]
+	path = repos/asdf-bitwarden
+	url = https://github.com/vixus0/asdf-bitwarden
+[submodule "repos/asdf-bombardier"]
+	path = repos/asdf-bombardier
+	url = https://github.com/NeoHsu/asdf-bombardier
+[submodule "repos/asdf-borg"]
+	path = repos/asdf-borg
+	url = https://github.com/lwiechec/asdf-borg
+[submodule "repos/asdf-btm"]
+	path = repos/asdf-btm
+	url = https://github.com/carbonteq/asdf-btm
+[submodule "repos/asdf-hashicorp"]
+	path = repos/asdf-hashicorp
+	url = https://github.com/asdf-community/asdf-hashicorp
+[submodule "repos/asdf-bpkg"]
+	path = repos/asdf-bpkg
+	url = https://github.com/bpkg/asdf-bpkg
+[submodule "repos/asdf-brig"]
+	path = repos/asdf-brig
+	url = https://github.com/Ibotta/asdf-brig
+[submodule "repos/asdf-btrace"]
+	path = repos/asdf-btrace
+	url = https://github.com/joschi/asdf-btrace
+[submodule "repos/asdf-buf"]
+	path = repos/asdf-buf
+	url = https://github.com/truepay/asdf-buf
+[submodule "repos/asdf-buildpack"]
+	path = repos/asdf-buildpack
+	url = https://github.com/johnlayton/asdf-buildpack
+[submodule "repos/asdf-bun"]
+	path = repos/asdf-bun
+	url = https://github.com/cometkim/asdf-bun
+[submodule "repos/asdf-bundler"]
+	path = repos/asdf-bundler
+	url = https://github.com/jonathanmorley/asdf-bundler
+[submodule "repos/asdf-caddy"]
+	path = repos/asdf-caddy
+	url = https://github.com/salasrod/asdf-caddy
+[submodule "repos/asdf-calicoctl"]
+	path = repos/asdf-calicoctl
+	url = https://github.com/FairwindsOps/asdf-calicoctl
+[submodule "repos/asdf-camunda-modeler"]
+	path = repos/asdf-camunda-modeler
+	url = https://github.com/barmac/asdf-camunda-modeler
+[submodule "repos/asdf-cargo-make"]
+	path = repos/asdf-cargo-make
+	url = https://github.com/kachick/asdf-cargo-make
+[submodule "repos/asdf-carp"]
+	path = repos/asdf-carp
+	url = https://github.com/susurri/asdf-carp
+[submodule "repos/asdf-carthage"]
+	path = repos/asdf-carthage
+	url = https://github.com/younke/asdf-carthage
+[submodule "repos/asdf-ccache"]
+	path = repos/asdf-ccache
+	url = https://github.com/asdf-community/asdf-ccache
+[submodule "repos/asdf-certstrap"]
+	path = repos/asdf-certstrap
+	url = https://github.com/carnei-ro/asdf-certstrap
+[submodule "repos/asdf-cidr-merger"]
+	path = repos/asdf-cidr-merger
+	url = https://github.com/ORCID/asdf-cidr-merger
+[submodule "repos/asdf-cidrchk"]
+	path = repos/asdf-cidrchk
+	url = https://github.com/ORCID/asdf-cidrchk
+[submodule "repos/asdf-circleci-cli"]
+	path = repos/asdf-circleci-cli
+	url = https://github.com/ucpr/asdf-circleci-cli
+[submodule "repos/asdf-cf"]
+	path = repos/asdf-cf
+	url = https://github.com/mattysweeps/asdf-cf
+[submodule "repos/asdf-cfssl"]
+	path = repos/asdf-cfssl
+	url = https://github.com/mathew-fleisch/asdf-cfssl
+[submodule "repos/asdf-chamber"]
+	path = repos/asdf-chamber
+	url = https://github.com/mintel/asdf-chamber
+[submodule "repos/asdf-cheat-plugin"]
+	path = repos/asdf-cheat-plugin
+	url = https://github.com/jmoratilla/asdf-cheat-plugin
+[submodule "repos/asdf-checkov"]
+	path = repos/asdf-checkov
+	url = https://github.com/bosmak/asdf-checkov
+[submodule "repos/asdf-chezmoi"]
+	path = repos/asdf-chezmoi
+	url = https://github.com/joke/asdf-chezmoi
+[submodule "repos/asdf-chezscheme"]
+	path = repos/asdf-chezscheme
+	url = https://github.com/asdf-community/asdf-chezscheme
+[submodule "repos/asdf-chicken"]
+	path = repos/asdf-chicken
+	url = https://github.com/evhan/asdf-chicken
+[submodule "repos/asdf-choose"]
+	path = repos/asdf-choose
+	url = https://github.com/carbonteq/asdf-choose
+[submodule "repos/asdf-chromedriver"]
+	path = repos/asdf-chromedriver
+	url = https://github.com/schinckel/asdf-chromedriver
+[submodule "repos/asdf-cilium-cli"]
+	path = repos/asdf-cilium-cli
+	url = https://github.com/carnei-ro/asdf-cilium-cli
+[submodule "repos/asdf-cilium-hubble"]
+	path = repos/asdf-cilium-hubble
+	url = https://github.com/NitriKx/asdf-cilium-hubble
+[submodule "repos/asdf-clojure"]
+	path = repos/asdf-clojure
+	url = https://github.com/asdf-community/asdf-clojure
+[submodule "repos/asdf-cloudflared"]
+	path = repos/asdf-cloudflared
+	url = https://github.com/threkk/asdf-cloudflared
+[submodule "repos/asdf-cloudsql-proxy"]
+	path = repos/asdf-cloudsql-proxy
+	url = https://github.com/itspngu/asdf-cloudsql-proxy
+[submodule "repos/asdf-clusterawsadm"]
+	path = repos/asdf-clusterawsadm
+	url = https://github.com/kahun/asdf-clusterawsadm
+[submodule "repos/asdf-clusterctl"]
+	path = repos/asdf-clusterctl
+	url = https://github.com/pfnet-research/asdf-clusterctl
+[submodule "repos/asdf-cmctl"]
+	path = repos/asdf-cmctl
+	url = https://github.com/asdf-community/asdf-cmctl
+[submodule "repos/asdf-cmake"]
+	path = repos/asdf-cmake
+	url = https://github.com/asdf-community/asdf-cmake
+[submodule "repos/asdf-cockroach"]
+	path = repos/asdf-cockroach
+	url = https://github.com/salasrod/asdf-cockroach
+[submodule "repos/asdf-cocoapods"]
+	path = repos/asdf-cocoapods
+	url = https://github.com/ronnnnn/asdf-cocoapods
+[submodule "repos/asdf-codefresh"]
+	path = repos/asdf-codefresh
+	url = https://github.com/gurukulkarni/asdf-codefresh
+[submodule "repos/asdf-codeql"]
+	path = repos/asdf-codeql
+	url = https://github.com/bored-engineer/asdf-codeql
+[submodule "repos/asdf-colima"]
+	path = repos/asdf-colima
+	url = https://github.com/CrouchingMuppet/asdf-colima
+[submodule "repos/asdf-concourse"]
+	path = repos/asdf-concourse
+	url = https://github.com/mattysweeps/asdf-concourse
+[submodule "repos/asdf-conduit"]
+	path = repos/asdf-conduit
+	url = https://github.com/gmcabrita/asdf-conduit
+[submodule "repos/asdf-conform"]
+	path = repos/asdf-conform
+	url = https://github.com/skyzyx/asdf-conform
+[submodule "repos/asdf-conftest"]
+	path = repos/asdf-conftest
+	url = https://github.com/looztra/asdf-conftest
+[submodule "repos/asdf-container-diff"]
+	path = repos/asdf-container-diff
+	url = https://github.com/cgroschupp/asdf-container-diff
+[submodule "repos/asdf-container-structure-test"]
+	path = repos/asdf-container-structure-test
+	url = https://github.com/jonathanmorley/asdf-container-structure-test
+[submodule "repos/asdf-cookiecutter"]
+	path = repos/asdf-cookiecutter
+	url = https://github.com/shawon-crosen/asdf-cookiecutter
+[submodule "repos/asdf-copper"]
+	path = repos/asdf-copper
+	url = https://github.com/vladlosev/asdf-copper
+[submodule "repos/asdf-coq"]
+	path = repos/asdf-coq
+	url = https://github.com/gingerhot/asdf-coq
+[submodule "repos/asdf-cosign"]
+	path = repos/asdf-cosign
+	url = https://gitlab.com/wt0f/asdf-cosign
+[submodule "repos/asdf-coursier"]
+	path = repos/asdf-coursier
+	url = https://github.com/jiahuili430/asdf-coursier
+[submodule "repos/asdf-crane"]
+	path = repos/asdf-crane
+	url = https://github.com/dmpe/asdf-crane
+[submodule "repos/asdf-crc"]
+	path = repos/asdf-crc
+	url = https://github.com/sqtran/asdf-crc
+[submodule "repos/asdf-crictl"]
+	path = repos/asdf-crictl
+	url = https://github.com/FairwindsOps/asdf-crictl
+[submodule "repos/asdf-crossplane-cli"]
+	path = repos/asdf-crossplane-cli
+	url = https://github.com/joke/asdf-crossplane-cli
+[submodule "repos/asdf-ctlptl"]
+	path = repos/asdf-ctlptl
+	url = https://github.com/ezcater/asdf-ctlptl
+[submodule "repos/asdf-crystal"]
+	path = repos/asdf-crystal
+	url = https://github.com/asdf-community/asdf-crystal
+[submodule "repos/asdf-ctop"]
+	path = repos/asdf-ctop
+	url = https://github.com/NeoHsu/asdf-ctop
+[submodule "repos/asdf-cue"]
+	path = repos/asdf-cue
+	url = https://github.com/asdf-community/asdf-cue
+[submodule "repos/asdf-cyclonedx"]
+	path = repos/asdf-cyclonedx
+	url = https://github.com/xeedio/asdf-cyclonedx
+[submodule "repos/asdf-dmd"]
+	path = repos/asdf-dmd
+	url = https://github.com/sylph01/asdf-dmd
+[submodule "repos/asdf-dagger"]
+	path = repos/asdf-dagger
+	url = https://github.com/virtualstaticvoid/asdf-dagger
+[submodule "repos/asdf-dart"]
+	path = repos/asdf-dart
+	url = https://github.com/PatOConnor43/asdf-dart
+[submodule "repos/asdf-dasel"]
+	path = repos/asdf-dasel
+	url = https://github.com/asdf-community/asdf-dasel
+[submodule "repos/asdf-datree"]
+	path = repos/asdf-datree
+	url = https://github.com/lukeab/asdf-datree
+[submodule "repos/asdf-dbmate"]
+	path = repos/asdf-dbmate
+	url = https://github.com/juusujanar/asdf-dbmate
+[submodule "repos/asdf-deck"]
+	path = repos/asdf-deck
+	url = https://github.com/nutellinoit/asdf-deck
+[submodule "repos/asdf-delta"]
+	path = repos/asdf-delta
+	url = https://github.com/andweeb/asdf-delta
+[submodule "repos/asdf-deno"]
+	path = repos/asdf-deno
+	url = https://github.com/asdf-community/asdf-deno
+[submodule "repos/asdf-dep"]
+	path = repos/asdf-dep
+	url = https://github.com/paxosglobal/asdf-dep
+[submodule "repos/asdf-depot"]
+	path = repos/asdf-depot
+	url = https://github.com/depot/asdf-depot
+[submodule "repos/asdf-desk"]
+	path = repos/asdf-desk
+	url = https://github.com/endorama/asdf-desk
+[submodule "repos/asdf-devspace"]
+	path = repos/asdf-devspace
+	url = https://github.com/NeoHsu/asdf-devspace
+[submodule "repos/asdf-dtm"]
+	path = repos/asdf-dtm
+	url = https://github.com/zhenyuanlau/asdf-dtm
+[submodule "repos/asdf-dhall"]
+	path = repos/asdf-dhall
+	url = https://github.com/aaaaninja/asdf-dhall
+[submodule "repos/asdf-difftastic"]
+	path = repos/asdf-difftastic
+	url = https://github.com/volf52/asdf-difftastic
+[submodule "repos/asdf-digdag"]
+	path = repos/asdf-digdag
+	url = https://github.com/jtakakura/asdf-digdag
+[submodule "repos/asdf-direnv"]
+	path = repos/asdf-direnv
+	url = https://github.com/asdf-community/asdf-direnv
+[submodule "repos/asdf-dive"]
+	path = repos/asdf-dive
+	url = https://github.com/looztra/asdf-dive
+[submodule "repos/asdf-djinni"]
+	path = repos/asdf-djinni
+	url = https://github.com/cross-language-cpp/asdf-djinni
+[submodule "repos/asdf-docker-slim"]
+	path = repos/asdf-docker-slim
+	url = https://github.com/xataz/asdf-docker-slim
+[submodule "repos/asdf-docker-compose-v1"]
+	path = repos/asdf-docker-compose-v1
+	url = https://github.com/yilas/asdf-docker-compose-v1
+[submodule "repos/asdf-dockle"]
+	path = repos/asdf-dockle
+	url = https://github.com/mathew-fleisch/asdf-dockle
+[submodule "repos/asdf-doctl"]
+	path = repos/asdf-doctl
+	url = https://github.com/maristgeek/asdf-doctl
+[submodule "repos/asdf-doctoolchain"]
+	path = repos/asdf-doctoolchain
+	url = https://github.com/joschi/asdf-doctoolchain
+[submodule "repos/asdf-docuum"]
+	path = repos/asdf-docuum
+	url = https://github.com/bradym/asdf-docuum
+[submodule "repos/asdf-dome"]
+	path = repos/asdf-dome
+	url = https://github.com/jtakakura/asdf-dome
+[submodule "repos/asdf-doppler"]
+	path = repos/asdf-doppler
+	url = https://github.com/takutakahashi/asdf-doppler
+[submodule "repos/asdf-dotenv-linter"]
+	path = repos/asdf-dotenv-linter
+	url = https://github.com/wesleimp/asdf-dotenv-linter
+[submodule "repos/asdf-dotty"]
+	path = repos/asdf-dotty
+	url = https://github.com/asdf-community/asdf-dotty
+[submodule "repos/asdf-dprint"]
+	path = repos/asdf-dprint
+	url = https://github.com/asdf-community/asdf-dprint
+[submodule "repos/asdf-draft"]
+	path = repos/asdf-draft
+	url = https://github.com/kristoflemmens/asdf-draft
+[submodule "repos/asdf-driftctl"]
+	path = repos/asdf-driftctl
+	url = https://github.com/nlamirault/asdf-driftctl
+[submodule "repos/asdf-drone"]
+	path = repos/asdf-drone
+	url = https://github.com/virtualstaticvoid/asdf-drone
+[submodule "repos/asdf-duf"]
+	path = repos/asdf-duf
+	url = https://github.com/NeoHsu/asdf-duf
+[submodule "repos/asdf-dust"]
+	path = repos/asdf-dust
+	url = https://github.com/looztra/asdf-dust
+[submodule "repos/asdf-dvc"]
+	path = repos/asdf-dvc
+	url = https://github.com/fwfurtado/asdf-dvc
+[submodule "repos/asdf-dyff"]
+	path = repos/asdf-dyff
+	url = https://gitlab.com/wt0f/asdf-dyff
+[submodule "repos/asdf-ecspresso"]
+	path = repos/asdf-ecspresso
+	url = https://github.com/kayac/asdf-ecspresso
+[submodule "repos/asdf-editorconfig-checker"]
+	path = repos/asdf-editorconfig-checker
+	url = https://github.com/gabitchov/asdf-editorconfig-checker
+[submodule "repos/asdf-ejson"]
+	path = repos/asdf-ejson
+	url = https://github.com/cipherstash/asdf-ejson
+[submodule "repos/asdf-eksctl"]
+	path = repos/asdf-eksctl
+	url = https://github.com/elementalvoid/asdf-eksctl
+[submodule "repos/asdf-elasticsearch"]
+	path = repos/asdf-elasticsearch
+	url = https://github.com/asdf-community/asdf-elasticsearch
+[submodule "repos/asdf-elixir"]
+	path = repos/asdf-elixir
+	url = https://github.com/asdf-vm/asdf-elixir
+[submodule "repos/asdf-elm"]
+	path = repos/asdf-elm
+	url = https://github.com/asdf-community/asdf-elm
+[submodule "repos/asdf-embulk"]
+	path = repos/asdf-embulk
+	url = https://github.com/yuokada/asdf-embulk
+[submodule "repos/asdf-emsdk"]
+	path = repos/asdf-emsdk
+	url = https://github.com/RobLoach/asdf-emsdk
+[submodule "repos/asdf-envcli"]
+	path = repos/asdf-envcli
+	url = https://github.com/zekker6/asdf-envcli
+[submodule "repos/asdf-ephemeral-postgres"]
+	path = repos/asdf-ephemeral-postgres
+	url = https://github.com/smashedtoatoms/asdf-ephemeral-postgres
+[submodule "repos/asdf-erlang"]
+	path = repos/asdf-erlang
+	url = https://github.com/asdf-vm/asdf-erlang
+[submodule "repos/asdf-esy"]
+	path = repos/asdf-esy
+	url = https://github.com/asdf-community/asdf-esy
+[submodule "repos/asdf-etcd"]
+	path = repos/asdf-etcd
+	url = https://github.com/particledecay/asdf-etcd
+[submodule "repos/asdf-evans"]
+	path = repos/asdf-evans
+	url = https://github.com/goki90210/asdf-evans
+[submodule "repos/asdf-exa"]
+	path = repos/asdf-exa
+	url = https://github.com/nyrst/asdf-exa
+[submodule "repos/asdf-fd"]
+	path = repos/asdf-fd
+	url = https://gitlab.com/wt0f/asdf-fd
+[submodule "repos/asdf-ffmpeg"]
+	path = repos/asdf-ffmpeg
+	url = https://github.com/acj/asdf-ffmpeg
+[submodule "repos/asdf-figma-export"]
+	path = repos/asdf-figma-export
+	url = https://github.com/younke/asdf-figma-export
+[submodule "repos/asdf-fillin"]
+	path = repos/asdf-fillin
+	url = https://github.com/ouest/asdf-fillin
+[submodule "repos/asdf-firebase"]
+	path = repos/asdf-firebase
+	url = https://github.com/jthegedus/asdf-firebase
+[submodule "repos/asdf-fission"]
+	path = repos/asdf-fission
+	url = https://github.com/virtualstaticvoid/asdf-fission
+[submodule "repos/asdf-flarectl"]
+	path = repos/asdf-flarectl
+	url = https://github.com/ORCID/asdf-flarectl
+[submodule "repos/asdf-flatc"]
+	path = repos/asdf-flatc
+	url = https://github.com/TheOpenDictionary/asdf-flatc
+[submodule "repos/asdf-flutter"]
+	path = repos/asdf-flutter
+	url = https://github.com/oae/asdf-flutter
+[submodule "repos/asdf-flux2"]
+	path = repos/asdf-flux2
+	url = https://github.com/tablexi/asdf-flux2
+[submodule "repos/asdf-fluxctl"]
+	path = repos/asdf-fluxctl
+	url = https://github.com/stefansedich/asdf-fluxctl
+[submodule "repos/asdf-flyctl"]
+	path = repos/asdf-flyctl
+	url = https://github.com/chessmango/asdf-flyctl
+[submodule "repos/asdf-flyway"]
+	path = repos/asdf-flyway
+	url = https://github.com/junminahn/asdf-flyway
+[submodule "repos/asdf-func-e"]
+	path = repos/asdf-func-e
+	url = https://github.com/carnei-ro/asdf-func-e
+[submodule "repos/asdf-furyctl"]
+	path = repos/asdf-furyctl
+	url = https://github.com/sighupio/asdf-furyctl
+[submodule "repos/asdf-fx"]
+	path = repos/asdf-fx
+	url = https://gitlab.com/wt0f/asdf-fx
+[submodule "repos/asdf-fzf"]
+	path = repos/asdf-fzf
+	url = https://github.com/kompiro/asdf-fzf
+[submodule "repos/asdf-gauche"]
+	path = repos/asdf-gauche
+	url = https://github.com/sakuro/asdf-gauche
+[submodule "repos/asdf-gallery-dl"]
+	path = repos/asdf-gallery-dl
+	url = https://github.com/iul1an/asdf-gallery-dl
+[submodule "repos/asdf-gam"]
+	path = repos/asdf-gam
+	url = https://github.com/offbyone/asdf-gam
+[submodule "repos/asdf-gator"]
+	path = repos/asdf-gator
+	url = https://github.com/MxNxPx/asdf-gator
+[submodule "repos/asdf-gcc-arm-none-eabi"]
+	path = repos/asdf-gcc-arm-none-eabi
+	url = https://github.com/dlech/asdf-gcc-arm-none-eabi
+[submodule "repos/asdf-gcloud"]
+	path = repos/asdf-gcloud
+	url = https://github.com/jthegedus/asdf-gcloud
+[submodule "repos/asdf-getenvoy"]
+	path = repos/asdf-getenvoy
+	url = https://github.com/asdf-community/asdf-getenvoy
+[submodule "repos/asdf-ghidra"]
+	path = repos/asdf-ghidra
+	url = https://github.com/Honeypot95/asdf-ghidra
+[submodule "repos/asdf-ghorg"]
+	path = repos/asdf-ghorg
+	url = https://github.com/gbloquel/asdf-ghorg
+[submodule "repos/asdf-ghq"]
+	path = repos/asdf-ghq
+	url = https://github.com/kajisha/asdf-ghq
+[submodule "repos/asdf-ginkgo"]
+	path = repos/asdf-ginkgo
+	url = https://github.com/jimmidyson/asdf-ginkgo
+[submodule "repos/asdf-git"]
+	path = repos/asdf-git
+	url = https://gitlab.com/jcaigitlab/asdf-git
+[submodule "repos/asdf-git-chglog"]
+	path = repos/asdf-git-chglog
+	url = https://github.com/GoodwayGroup/asdf-git-chglog
+[submodule "repos/asdf-gitconfig"]
+	path = repos/asdf-gitconfig
+	url = https://github.com/0ghny/asdf-gitconfig
+[submodule "repos/asdf-github-cli"]
+	path = repos/asdf-github-cli
+	url = https://github.com/bartlomiejdanek/asdf-github-cli
+[submodule "repos/asdf-github-markdown-toc"]
+	path = repos/asdf-github-markdown-toc
+	url = https://github.com/skyzyx/asdf-github-markdown-toc
+[submodule "repos/asdf-gitleaks"]
+	path = repos/asdf-gitleaks
+	url = https://github.com/jmcvetta/asdf-gitleaks
+[submodule "repos/asdf-gitsign"]
+	path = repos/asdf-gitsign
+	url = https://github.com/spencergilbert/asdf-gitsign
+[submodule "repos/asdf-gitui"]
+	path = repos/asdf-gitui
+	url = https://github.com/looztra/asdf-gitui
+[submodule "repos/asdf-glab"]
+	path = repos/asdf-glab
+	url = https://github.com/particledecay/asdf-glab
+[submodule "repos/asdf-gleam"]
+	path = repos/asdf-gleam
+	url = https://github.com/vic/asdf-gleam
+[submodule "repos/asdf-glen"]
+	path = repos/asdf-glen
+	url = https://github.com/bradym/asdf-glen
+[submodule "repos/asdf-glooctl"]
+	path = repos/asdf-glooctl
+	url = https://github.com/halilkaya/asdf-glooctl
+[submodule "repos/asdf-glow"]
+	path = repos/asdf-glow
+	url = https://github.com/chessmango/asdf-glow
+[submodule "repos/asdf-guile"]
+	path = repos/asdf-guile
+	url = https://github.com/indiebrain/asdf-guile
+[submodule "repos/asdf-nano"]
+	path = repos/asdf-nano
+	url = https://github.com/mfakane/asdf-nano
+[submodule "repos/asdf-golang"]
+	path = repos/asdf-golang
+	url = https://github.com/kennyp/asdf-golang
+[submodule "repos/asdf-go-sdk"]
+	path = repos/asdf-go-sdk
+	url = https://github.com/yacchi/asdf-go-sdk
+[submodule "repos/asdf-go-containerregistry"]
+	path = repos/asdf-go-containerregistry
+	url = https://github.com/dex4er/asdf-go-containerregistry
+[submodule "repos/asdf-go-getter"]
+	path = repos/asdf-go-getter
+	url = https://github.com/ryodocx/asdf-go-getter
+[submodule "repos/asdf-go-jsonnet"]
+	path = repos/asdf-go-jsonnet
+	url = https://gitlab.com/craigfurman/asdf-go-jsonnet
+[submodule "repos/asdf-go-jira"]
+	path = repos/asdf-go-jira
+	url = https://github.com/dguihal/asdf-go-jira
+[submodule "repos/asdf-go-junit-report"]
+	path = repos/asdf-go-junit-report
+	url = https://github.com/jwillker/asdf-go-junit-report
+[submodule "repos/asdf-go-swagger"]
+	path = repos/asdf-go-swagger
+	url = https://github.com/jfreeland/asdf-go-swagger
+[submodule "repos/asdf-goconvey"]
+	path = repos/asdf-goconvey
+	url = https://github.com/therounds-contrib/asdf-goconvey
+[submodule "repos/asdf-hugo"]
+	path = repos/asdf-hugo
+	url = https://github.com/nklmilojevic/asdf-hugo
+[submodule "repos/asdf-gojq"]
+	path = repos/asdf-gojq
+	url = https://github.com/jimmidyson/asdf-gojq
+[submodule "repos/asdf-golangci-lint"]
+	path = repos/asdf-golangci-lint
+	url = https://github.com/hypnoglow/asdf-golangci-lint
+[submodule "repos/asdf-gomigrate"]
+	path = repos/asdf-gomigrate
+	url = https://github.com/joschi/asdf-gomigrate
+[submodule "repos/asdf-gomplate"]
+	path = repos/asdf-gomplate
+	url = https://github.com/sneakybeaky/asdf-gomplate
+[submodule "repos/asdf-gopass"]
+	path = repos/asdf-gopass
+	url = https://github.com/trallnag/asdf-gopass
+[submodule "repos/asdf-goreleaser"]
+	path = repos/asdf-goreleaser
+	url = https://github.com/kforsthoevel/asdf-goreleaser
+[submodule "repos/asdf-goss"]
+	path = repos/asdf-goss
+	url = https://github.com/raimon49/asdf-goss
+[submodule "repos/asdf-graalvm"]
+	path = repos/asdf-graalvm
+	url = https://github.com/asdf-community/asdf-graalvm
+[submodule "repos/asdf-gradle"]
+	path = repos/asdf-gradle
+	url = https://github.com/rfrancis/asdf-gradle
+[submodule "repos/asdf-gradle-profiler"]
+	path = repos/asdf-gradle-profiler
+	url = https://github.com/joschi/asdf-gradle-profiler
+[submodule "repos/asdf-grails"]
+	path = repos/asdf-grails
+	url = https://github.com/weibemoura/asdf-grails
+[submodule "repos/asdf-grain"]
+	path = repos/asdf-grain
+	url = https://github.com/cometkim/asdf-grain
+[submodule "repos/asdf-granted"]
+	path = repos/asdf-granted
+	url = https://github.com/dex4er/asdf-granted
+[submodule "repos/asdf-grex"]
+	path = repos/asdf-grex
+	url = https://github.com/ouest/asdf-grex
+[submodule "repos/asdf-groovy"]
+	path = repos/asdf-groovy
+	url = https://github.com/weibemoura/asdf-groovy
+[submodule "repos/asdf-grpcurl"]
+	path = repos/asdf-grpcurl
+	url = https://github.com/asdf-community/asdf-grpcurl
+[submodule "repos/asdf-grpc-health-probe"]
+	path = repos/asdf-grpc-health-probe
+	url = https://github.com/zufardhiyaulhaq/asdf-grpc-health-probe
+[submodule "repos/asdf-grype"]
+	path = repos/asdf-grype
+	url = https://github.com/poikilotherm/asdf-grype
+[submodule "repos/asdf-gum"]
+	path = repos/asdf-gum
+	url = https://github.com/lwiechec/asdf-gum
+[submodule "repos/asdf-gwvault"]
+	path = repos/asdf-gwvault
+	url = https://github.com/GoodwayGroup/asdf-gwvault
+[submodule "repos/asdf-hadolint"]
+	path = repos/asdf-hadolint
+	url = https://github.com/devlincashman/asdf-hadolint
+[submodule "repos/asdf-hamler"]
+	path = repos/asdf-hamler
+	url = https://github.com/scudelletti/asdf-hamler
+[submodule "repos/asdf-has"]
+	path = repos/asdf-has
+	url = https://github.com/sylvainmetayer/asdf-has
+[submodule "repos/asdf-haskell"]
+	path = repos/asdf-haskell
+	url = https://github.com/asdf-community/asdf-haskell
+[submodule "repos/asdf-hasura"]
+	path = repos/asdf-hasura
+	url = https://github.com/gurukulkarni/asdf-hasura
+[submodule "repos/asdf-haxe"]
+	path = repos/asdf-haxe
+	url = https://github.com/asdf-community/asdf-haxe
+[submodule "repos/asdf-hcl2json"]
+	path = repos/asdf-hcl2json
+	url = https://github.com/dex4er/asdf-hcl2json
+[submodule "repos/asdf-hcloud"]
+	path = repos/asdf-hcloud
+	url = https://github.com/chessmango/asdf-hcloud
+[submodule "repos/asdf-helm"]
+	path = repos/asdf-helm
+	url = https://github.com/Antiarchitect/asdf-helm
+[submodule "repos/asdf-helm-cr"]
+	path = repos/asdf-helm-cr
+	url = https://github.com/Antiarchitect/asdf-helm-cr
+[submodule "repos/asdf-helm-ct"]
+	path = repos/asdf-helm-ct
+	url = https://github.com/tablexi/asdf-helm-ct
+[submodule "repos/asdf-helm-diff"]
+	path = repos/asdf-helm-diff
+	url = https://github.com/dex4er/asdf-helm-diff
+[submodule "repos/asdf-helm-docs"]
+	path = repos/asdf-helm-docs
+	url = https://github.com/sudermanjr/asdf-helm-docs
+[submodule "repos/asdf-helmfile"]
+	path = repos/asdf-helmfile
+	url = https://github.com/feniix/asdf-helmfile
+[submodule "repos/asdf-helmsman"]
+	path = repos/asdf-helmsman
+	url = https://github.com/luisdavim/asdf-helmsman
+[submodule "repos/asdf-heroku-cli"]
+	path = repos/asdf-heroku-cli
+	url = https://github.com/treilly94/asdf-heroku-cli
+[submodule "repos/asdf-hey"]
+	path = repos/asdf-hey
+	url = https://github.com/raimon49/asdf-hey
+[submodule "repos/asdf-httpie-go"]
+	path = repos/asdf-httpie-go
+	url = https://github.com/abatilo/asdf-httpie-go
+[submodule "repos/asdf-hub"]
+	path = repos/asdf-hub
+	url = https://github.com/vixus0/asdf-hub
+[submodule "repos/asdf-hurl"]
+	path = repos/asdf-hurl
+	url = https://github.com/raimon49/asdf-hurl
+[submodule "repos/asdf-hwatch"]
+	path = repos/asdf-hwatch
+	url = https://github.com/chessmango/asdf-hwatch
+[submodule "repos/asdf-hygen"]
+	path = repos/asdf-hygen
+	url = https://github.com/brentjanderson/asdf-hygen
+[submodule "repos/asdf-hyperfine"]
+	path = repos/asdf-hyperfine
+	url = https://github.com/volf52/asdf-hyperfine
+[submodule "repos/asdf-iamlive"]
+	path = repos/asdf-iamlive
+	url = https://github.com/chessmango/asdf-iamlive
+[submodule "repos/asdf-iam-policy-json-to-terraform"]
+	path = repos/asdf-iam-policy-json-to-terraform
+	url = https://github.com/carlduevel/asdf-iam-policy-json-to-terraform
+[submodule "repos/asdf-ibmcloud"]
+	path = repos/asdf-ibmcloud
+	url = https://github.com/triangletodd/asdf-ibmcloud
+[submodule "repos/asdf-idris"]
+	path = repos/asdf-idris
+	url = https://github.com/asdf-community/asdf-idris
+[submodule "repos/asdf-idris2"]
+	path = repos/asdf-idris2
+	url = https://github.com/asdf-community/asdf-idris2
+[submodule "repos/asdf-imagemagick"]
+	path = repos/asdf-imagemagick
+	url = https://github.com/mangalakader/asdf-imagemagick
+[submodule "repos/asdf-carvel"]
+	path = repos/asdf-carvel
+	url = https://github.com/vmware-tanzu/asdf-carvel
+[submodule "repos/asdf-infracost"]
+	path = repos/asdf-infracost
+	url = https://github.com/dex4er/asdf-infracost
+[submodule "repos/asdf-inlets"]
+	path = repos/asdf-inlets
+	url = https://github.com/nlamirault/asdf-inlets
+[submodule "repos/asdf-io"]
+	path = repos/asdf-io
+	url = https://github.com/mracos/asdf-io
+[submodule "repos/asdf-istioctl"]
+	path = repos/asdf-istioctl
+	url = https://github.com/virtualstaticvoid/asdf-istioctl
+[submodule "repos/asdf-janet"]
+	path = repos/asdf-janet
+	url = https://github.com/Jakski/asdf-janet
+[submodule "repos/asdf-java"]
+	path = repos/asdf-java
+	url = https://github.com/halcyon/asdf-java
+[submodule "repos/asdf-jb"]
+	path = repos/asdf-jb
+	url = https://github.com/beardix/asdf-jb
+[submodule "repos/asdf-jbang"]
+	path = repos/asdf-jbang
+	url = https://github.com/joschi/asdf-jbang
+[submodule "repos/asdf-jib"]
+	path = repos/asdf-jib
+	url = https://github.com/joschi/asdf-jib
+[submodule "repos/asdf-jiq"]
+	path = repos/asdf-jiq
+	url = https://github.com/chessmango/asdf-jiq
+[submodule "repos/asdf-jless"]
+	path = repos/asdf-jless
+	url = https://github.com/jc00ke/asdf-jless
+[submodule "repos/asdf-jmespath"]
+	path = repos/asdf-jmespath
+	url = https://github.com/skyzyx/asdf-jmespath
+[submodule "repos/asdf-jq"]
+	path = repos/asdf-jq
+	url = https://github.com/lsanwick/asdf-jq
+[submodule "repos/asdf-jqp"]
+	path = repos/asdf-jqp
+	url = https://gitlab.com/wt0f/asdf-jqp
+[submodule "repos/asdf-jreleaser"]
+	path = repos/asdf-jreleaser
+	url = https://github.com/joschi/asdf-jreleaser
+[submodule "repos/asdf-k14s"]
+	path = repos/asdf-k14s
+	url = https://github.com/k14s/asdf-k14s
+[submodule "repos/asdf-jsonnet"]
+	path = repos/asdf-jsonnet
+	url = https://github.com/Banno/asdf-jsonnet
+[submodule "repos/asdf-julia"]
+	path = repos/asdf-julia
+	url = https://github.com/rkyleg/asdf-julia
+[submodule "repos/asdf-just"]
+	path = repos/asdf-just
+	url = https://github.com/olofvndrhr/asdf-just
+[submodule "repos/asdf-jx"]
+	path = repos/asdf-jx
+	url = https://github.com/vbehar/asdf-jx
+[submodule "repos/asdf-plugin-k0sctl"]
+	path = repos/asdf-plugin-k0sctl
+	url = https://github.com/Its-Alex/asdf-plugin-k0sctl
+[submodule "repos/asdf-k2tf"]
+	path = repos/asdf-k2tf
+	url = https://github.com/carlduevel/asdf-k2tf
+[submodule "repos/asdf-k3d"]
+	path = repos/asdf-k3d
+	url = https://github.com/spencergilbert/asdf-k3d
+[submodule "repos/asdf-k3sup"]
+	path = repos/asdf-k3sup
+	url = https://github.com/cgroschupp/asdf-k3sup
+[submodule "repos/asdf-k6"]
+	path = repos/asdf-k6
+	url = https://github.com/grimoh/asdf-k6
+[submodule "repos/asdf-k9s"]
+	path = repos/asdf-k9s
+	url = https://github.com/looztra/asdf-k9s
+[submodule "repos/asdf-kafka"]
+	path = repos/asdf-kafka
+	url = https://github.com/ueisele/asdf-kafka
+[submodule "repos/asdf-kafkactl"]
+	path = repos/asdf-kafkactl
+	url = https://github.com/anweber/asdf-kafkactl
+[submodule "repos/asdf-kcat"]
+	path = repos/asdf-kcat
+	url = https://github.com/douglasdgoulart/asdf-kcat
+[submodule "repos/asdf-kcctl"]
+	path = repos/asdf-kcctl
+	url = https://github.com/joschi/asdf-kcctl
+[submodule "repos/asdf-kconf"]
+	path = repos/asdf-kconf
+	url = https://github.com/particledecay/asdf-kconf
+[submodule "repos/asdf-kind"]
+	path = repos/asdf-kind
+	url = https://github.com/johnlayton/asdf-kind
+[submodule "repos/asdf-ki"]
+	path = repos/asdf-ki
+	url = https://github.com/comdotlinux/asdf-ki
+[submodule "repos/asdf-kn"]
+	path = repos/asdf-kn
+	url = https://github.com/joke/asdf-kn
+[submodule "repos/asdf-ko"]
+	path = repos/asdf-ko
+	url = https://github.com/zasdaym/asdf-ko
+[submodule "repos/asdf-koka"]
+	path = repos/asdf-koka
+	url = https://github.com/susurri/asdf-koka
+[submodule "repos/asdf-kompose"]
+	path = repos/asdf-kompose
+	url = https://github.com/technikhil314/asdf-kompose
+[submodule "repos/asdf-kops"]
+	path = repos/asdf-kops
+	url = https://github.com/Antiarchitect/asdf-kops
+[submodule "repos/asdf-kotlin"]
+	path = repos/asdf-kotlin
+	url = https://github.com/asdf-community/asdf-kotlin
+[submodule "repos/asdf-kpt"]
+	path = repos/asdf-kpt
+	url = https://github.com/nlamirault/asdf-kpt
+[submodule "repos/asdf-kscript"]
+	path = repos/asdf-kscript
+	url = https://github.com/edgelevel/asdf-kscript
+[submodule "repos/asdf-krab"]
+	path = repos/asdf-krab
+	url = https://github.com/ohkrab/asdf-krab
+[submodule "repos/asdf-krew"]
+	path = repos/asdf-krew
+	url = https://github.com/bjw-s/asdf-krew
+[submodule "repos/asdf-ksonnet"]
+	path = repos/asdf-ksonnet
+	url = https://github.com/Banno/asdf-ksonnet
+[submodule "repos/asdf-ktlint"]
+	path = repos/asdf-ktlint
+	url = https://github.com/esensar/asdf-ktlint
+[submodule "repos/asdf-kube-capacity"]
+	path = repos/asdf-kube-capacity
+	url = https://github.com/looztra/asdf-kube-capacity
+[submodule "repos/asdf-kube-code-generator"]
+	path = repos/asdf-kube-code-generator
+	url = https://github.com/jimmidyson/asdf-kube-code-generator
+[submodule "repos/asdf-kube-controller-tools"]
+	path = repos/asdf-kube-controller-tools
+	url = https://github.com/jimmidyson/asdf-kube-controller-tools
+[submodule "repos/kube-credential-cache"]
+	path = repos/kube-credential-cache
+	url = https://github.com/ryodocx/kube-credential-cache
+[submodule "repos/asdf-kube-linter"]
+	path = repos/asdf-kube-linter
+	url = https://github.com/devlincashman/asdf-kube-linter
+[submodule "repos/asdf-kube-score"]
+	path = repos/asdf-kube-score
+	url = https://github.com/bageljp/asdf-kube-score
+[submodule "repos/asdf-kubebuilder"]
+	path = repos/asdf-kubebuilder
+	url = https://github.com/virtualstaticvoid/asdf-kubebuilder
+[submodule "repos/asdf-kubecm"]
+	path = repos/asdf-kubecm
+	url = https://github.com/samhvw8/asdf-kubecm
+[submodule "repos/asdf-kubecolor"]
+	path = repos/asdf-kubecolor
+	url = https://github.com/dex4er/asdf-kubecolor
+[submodule "repos/asdf-kubeconform"]
+	path = repos/asdf-kubeconform
+	url = https://github.com/lirlia/asdf-kubeconform
+[submodule "repos/asdf-kubectl"]
+	path = repos/asdf-kubectl
+	url = https://github.com/asdf-community/asdf-kubectl
+[submodule "repos/asdf-kubectl-bindrole"]
+	path = repos/asdf-kubectl-bindrole
+	url = https://github.com/looztra/asdf-kubectl-bindrole
+[submodule "repos/asdf-kubectl-convert"]
+	path = repos/asdf-kubectl-convert
+	url = https://github.com/iul1an/asdf-kubectl-convert
+[submodule "repos/asdf-kubectl-buildkit"]
+	path = repos/asdf-kubectl-buildkit
+	url = https://github.com/ezcater/asdf-kubectl-buildkit
+[submodule "repos/asdf-kubectl-kots"]
+	path = repos/asdf-kubectl-kots
+	url = https://github.com/ganta/asdf-kubectl-kots
+[submodule "repos/asdf-kubectx"]
+	path = repos/asdf-kubectx
+	url = https://gitlab.com/wt0f/asdf-kubectx
+[submodule "repos/asdf-kubefedctl"]
+	path = repos/asdf-kubefedctl
+	url = https://github.com/kvokka/asdf-kubefedctl
+[submodule "repos/asdf-kubefirst"]
+	path = repos/asdf-kubefirst
+	url = https://github.com/Claywd/asdf-kubefirst
+[submodule "repos/asdf-kubelogin"]
+	path = repos/asdf-kubelogin
+	url = https://github.com/sechmann/asdf-kubelogin
+[submodule "repos/asdf-kubemqctl"]
+	path = repos/asdf-kubemqctl
+	url = https://github.com/johnlayton/asdf-kubemqctl
+[submodule "repos/asdf-kubent"]
+	path = repos/asdf-kubent
+	url = https://github.com/virtualstaticvoid/asdf-kubent
+[submodule "repos/asdf-kubergrunt"]
+	path = repos/asdf-kubergrunt
+	url = https://github.com/NeoHsu/asdf-kubergrunt
+[submodule "repos/asdf-kubeseal"]
+	path = repos/asdf-kubeseal
+	url = https://github.com/stefansedich/asdf-kubeseal
+[submodule "repos/asdf-kubesec"]
+	path = repos/asdf-kubesec
+	url = https://github.com/vitalis/asdf-kubesec
+[submodule "repos/asdf-kubeshark"]
+	path = repos/asdf-kubeshark
+	url = https://github.com/carnei-ro/asdf-kubeshark
+[submodule "repos/asdf-kubespy"]
+	path = repos/asdf-kubespy
+	url = https://github.com/jfreeland/asdf-kubespy
+[submodule "repos/asdf-kubeval"]
+	path = repos/asdf-kubeval
+	url = https://github.com/stefansedich/asdf-kubeval
+[submodule "repos/asdf-kubevela"]
+	path = repos/asdf-kubevela
+	url = https://github.com/gustavclausen/asdf-kubevela
+[submodule "repos/asdf-kubie"]
+	path = repos/asdf-kubie
+	url = https://github.com/johnhamelink/asdf-kubie
+[submodule "repos/asdf-kustomize"]
+	path = repos/asdf-kustomize
+	url = https://github.com/Banno/asdf-kustomize
+[submodule "repos/asdf-kuttl"]
+	path = repos/asdf-kuttl
+	url = https://github.com/jimmidyson/asdf-kuttl
+[submodule "repos/asdf-lab"]
+	path = repos/asdf-lab
+	url = https://github.com/particledecay/asdf-lab
+[submodule "repos/asdf-lazygit"]
+	path = repos/asdf-lazygit
+	url = https://github.com/nklmilojevic/asdf-lazygit
+[submodule "repos/asdf-lean"]
+	path = repos/asdf-lean
+	url = https://github.com/asdf-community/asdf-lean
+[submodule "repos/asdf-lein"]
+	path = repos/asdf-lein
+	url = https://github.com/miorimmax/asdf-lein
+[submodule "repos/asdf-lefthook"]
+	path = repos/asdf-lefthook
+	url = https://github.com/jtzero/asdf-lefthook
+[submodule "repos/asdf-lfe"]
+	path = repos/asdf-lfe
+	url = https://github.com/asdf-community/asdf-lfe
+[submodule "repos/asdf-lima"]
+	path = repos/asdf-lima
+	url = https://github.com/CrouchingMuppet/asdf-lima
+[submodule "repos/asdf-link"]
+	path = repos/asdf-link
+	url = https://github.com/asdf-community/asdf-link
+[submodule "repos/asdf-linkerd"]
+	path = repos/asdf-linkerd
+	url = https://github.com/kforsthoevel/asdf-linkerd
+[submodule "repos/asdf-liqoctl"]
+	path = repos/asdf-liqoctl
+	url = https://github.com/pdemagny/asdf-liqoctl
+[submodule "repos/asdf-litestream"]
+	path = repos/asdf-litestream
+	url = https://github.com/threkk/asdf-litestream
+[submodule "repos/asdf-logtalk"]
+	path = repos/asdf-logtalk
+	url = https://github.com/LogtalkDotOrg/asdf-logtalk
+[submodule "repos/asdf-loki-logcli"]
+	path = repos/asdf-loki-logcli
+	url = https://github.com/comdotlinux/asdf-loki-logcli
+[submodule "repos/asdf-lua"]
+	path = repos/asdf-lua
+	url = https://github.com/Stratus3D/asdf-lua
+[submodule "repos/asdf-luaJIT"]
+	path = repos/asdf-luaJIT
+	url = https://github.com/smashedtoatoms/asdf-luaJIT
+[submodule "repos/asdf-lua-language-server"]
+	path = repos/asdf-lua-language-server
+	url = https://github.com/bellini666/asdf-lua-language-server
+[submodule "repos/asdf-lucy"]
+	path = repos/asdf-lucy
+	url = https://github.com/cometkim/asdf-lucy
+[submodule "repos/asdf-maestro"]
+	path = repos/asdf-maestro
+	url = https://github.com/dotanuki-labs/asdf-maestro
+[submodule "repos/asdf-mage"]
+	path = repos/asdf-mage
+	url = https://github.com/mathew-fleisch/asdf-mage
+[submodule "repos/asdf-make"]
+	path = repos/asdf-make
+	url = https://github.com/yacchi/asdf-make
+[submodule "repos/asdf-mani"]
+	path = repos/asdf-mani
+	url = https://github.com/anweber/asdf-mani
+[submodule "repos/asdf-mark"]
+	path = repos/asdf-mark
+	url = https://github.com/jfreeland/asdf-mark
+[submodule "repos/asdf-markdownlint-cli2"]
+	path = repos/asdf-markdownlint-cli2
+	url = https://github.com/paulo-ferraz-oliveira/asdf-markdownlint-cli2
+[submodule "repos/asdf-marp-cli"]
+	path = repos/asdf-marp-cli
+	url = https://github.com/xataz/asdf-marp-cli
+[submodule "repos/asdf-mask"]
+	path = repos/asdf-mask
+	url = https://github.com/aaaaninja/asdf-mask
+[submodule "repos/asdf-maven"]
+	path = repos/asdf-maven
+	url = https://github.com/halcyon/asdf-maven
+[submodule "repos/asdf-mdbook"]
+	path = repos/asdf-mdbook
+	url = https://github.com/cipherstash/asdf-mdbook
+[submodule "repos/asdf-mdbook-linkcheck"]
+	path = repos/asdf-mdbook-linkcheck
+	url = https://github.com/cipherstash/asdf-mdbook-linkcheck
+[submodule "repos/asdf-melt"]
+	path = repos/asdf-melt
+	url = https://github.com/chessmango/asdf-melt
+[submodule "repos/asdf-memcached"]
+	path = repos/asdf-memcached
+	url = https://github.com/furkanural/asdf-memcached
+[submodule "repos/asdf-mercury"]
+	path = repos/asdf-mercury
+	url = https://github.com/susurri/asdf-mercury
+[submodule "repos/asdf-meson"]
+	path = repos/asdf-meson
+	url = https://github.com/asdf-community/asdf-meson
+[submodule "repos/asdf-micronaut"]
+	path = repos/asdf-micronaut
+	url = https://github.com/weibemoura/asdf-micronaut
+[submodule "repos/asdf-mill"]
+	path = repos/asdf-mill
+	url = https://github.com/asdf-community/asdf-mill
+[submodule "repos/asdf-minikube"]
+	path = repos/asdf-minikube
+	url = https://github.com/alvarobp/asdf-minikube
+[submodule "repos/asdf-minio"]
+	path = repos/asdf-minio
+	url = https://github.com/aeons/asdf-minio
+[submodule "repos/asdf-mc"]
+	path = repos/asdf-mc
+	url = https://github.com/penpyt/asdf-mc
+[submodule "repos/asdf-minishift"]
+	path = repos/asdf-minishift
+	url = https://github.com/sqtran/asdf-minishift
+[submodule "repos/asdf-mint"]
+	path = repos/asdf-mint
+	url = https://github.com/mint-lang/asdf-mint
+[submodule "repos/asdf-mitmproxy"]
+	path = repos/asdf-mitmproxy
+	url = https://github.com/NeoHsu/asdf-mitmproxy
+[submodule "repos/asdf-mkcert"]
+	path = repos/asdf-mkcert
+	url = https://github.com/salasrod/asdf-mkcert
+[submodule "repos/asdf-mlton"]
+	path = repos/asdf-mlton
+	url = https://github.com/asdf-community/asdf-mlton
+[submodule "repos/asdf-mockery"]
+	path = repos/asdf-mockery
+	url = https://github.com/cabify/asdf-mockery
+[submodule "repos/asdf-mongo-tools"]
+	path = repos/asdf-mongo-tools
+	url = https://github.com/itspngu/asdf-mongo-tools
+[submodule "repos/asdf-mongodb"]
+	path = repos/asdf-mongodb
+	url = https://github.com/sylph01/asdf-mongodb
+[submodule "repos/asdf-mongosh"]
+	path = repos/asdf-mongosh
+	url = https://github.com/itspngu/asdf-mongosh
+[submodule "repos/asdf-mutanus"]
+	path = repos/asdf-mutanus
+	url = https://github.com/SoriUR/asdf-mutanus
+[submodule "repos/asdf-mvnd"]
+	path = repos/asdf-mvnd
+	url = https://github.com/joschi/asdf-mvnd
+[submodule "repos/asdf-mysql"]
+	path = repos/asdf-mysql
+	url = https://github.com/iroddis/asdf-mysql
+[submodule "repos/asdf-nancy"]
+	path = repos/asdf-nancy
+	url = https://github.com/iilyak/asdf-nancy
+[submodule "repos/asdf-nasm"]
+	path = repos/asdf-nasm
+	url = https://github.com/Dpbm/asdf-nasm
+[submodule "repos/asdf-neko"]
+	path = repos/asdf-neko
+	url = https://github.com/asdf-community/asdf-neko
+[submodule "repos/asdf-neovim"]
+	path = repos/asdf-neovim
+	url = https://github.com/richin13/asdf-neovim
+[submodule "repos/asdf-nerdctl"]
+	path = repos/asdf-nerdctl
+	url = https://github.com/dmpe/asdf-nerdctl
+[submodule "repos/asdf-newrelic-cli"]
+	path = repos/asdf-newrelic-cli
+	url = https://github.com/NeoHsu/asdf-newrelic-cli
+[submodule "repos/asdf-nfpm"]
+	path = repos/asdf-nfpm
+	url = https://github.com/ORCID/asdf-nfpm
+[submodule "repos/asdf-nim"]
+	path = repos/asdf-nim
+	url = https://github.com/asdf-community/asdf-nim
+[submodule "repos/asdf-ninja"]
+	path = repos/asdf-ninja
+	url = https://github.com/asdf-community/asdf-ninja
+[submodule "repos/asdf-nodejs"]
+	path = repos/asdf-nodejs
+	url = https://github.com/asdf-vm/asdf-nodejs
+[submodule "repos/asdf-nova"]
+	path = repos/asdf-nova
+	url = https://github.com/elementalvoid/asdf-nova
+[submodule "repos/asdf-nsc"]
+	path = repos/asdf-nsc
+	url = https://github.com/dex4er/asdf-nsc
+[submodule "repos/asdf-oc"]
+	path = repos/asdf-oc
+	url = https://github.com/sqtran/asdf-oc
+[submodule "repos/asdf-oci"]
+	path = repos/asdf-oci
+	url = https://github.com/yasn77/asdf-oci
+[submodule "repos/asdf-ocaml"]
+	path = repos/asdf-ocaml
+	url = https://github.com/asdf-community/asdf-ocaml
+[submodule "repos/asdf-odin"]
+	path = repos/asdf-odin
+	url = https://github.com/jtakakura/asdf-odin
+[submodule "repos/asdf-odo"]
+	path = repos/asdf-odo
+	url = https://github.com/rm3l/asdf-odo
+[submodule "repos/asdf-plugin-okta-aws-cli"]
+	path = repos/asdf-plugin-okta-aws-cli
+	url = https://github.com/bennythejudge/asdf-plugin-okta-aws-cli
+[submodule "repos/asdf-okteto"]
+	path = repos/asdf-okteto
+	url = https://github.com/BradenM/asdf-okteto
+[submodule "repos/asdf-opa"]
+	path = repos/asdf-opa
+	url = https://github.com/tochukwuvictor/asdf-opa
+[submodule "repos/asdf-opam"]
+	path = repos/asdf-opam
+	url = https://github.com/asdf-community/asdf-opam
+[submodule "repos/asdf-faas-cli"]
+	path = repos/asdf-faas-cli
+	url = https://github.com/zekker6/asdf-faas-cli
+[submodule "repos/asdf-openresty"]
+	path = repos/asdf-openresty
+	url = https://github.com/smashedtoatoms/asdf-openresty
+[submodule "repos/asdf-opensearch"]
+	path = repos/asdf-opensearch
+	url = https://github.com/randikabanura/asdf-opensearch
+[submodule "repos/asdf-opensearch-cli"]
+	path = repos/asdf-opensearch-cli
+	url = https://github.com/iul1an/asdf-opensearch-cli
+[submodule "repos/asdf-openshift-install"]
+	path = repos/asdf-openshift-install
+	url = https://github.com/hhemied/asdf-openshift-install
+[submodule "repos/asdf-operator-sdk"]
+	path = repos/asdf-operator-sdk
+	url = https://github.com/Medium/asdf-operator-sdk
+[submodule "repos/asdf-opsgenie-lamp"]
+	path = repos/asdf-opsgenie-lamp
+	url = https://github.com/ORCID/asdf-opsgenie-lamp
+[submodule "repos/asdf-osm"]
+	path = repos/asdf-osm
+	url = https://github.com/nlamirault/asdf-osm
+[submodule "repos/asdf-osqueryi"]
+	path = repos/asdf-osqueryi
+	url = https://github.com/davidecavestro/asdf-osqueryi
+[submodule "repos/asdf-pachctl"]
+	path = repos/asdf-pachctl
+	url = https://github.com/abatilo/asdf-pachctl
+[submodule "repos/asdf-patat"]
+	path = repos/asdf-patat
+	url = https://github.com/airtonix/asdf-patat
+[submodule "repos/asdf-peco"]
+	path = repos/asdf-peco
+	url = https://github.com/asdf-community/asdf-peco
+[submodule "repos/asdf-pdm"]
+	path = repos/asdf-pdm
+	url = https://github.com/1oglop1/asdf-pdm
+[submodule "repos/asdf-perl"]
+	path = repos/asdf-perl
+	url = https://github.com/ouest/asdf-perl
+[submodule "repos/asdf-php"]
+	path = repos/asdf-php
+	url = https://github.com/asdf-community/asdf-php
+[submodule "repos/asdf-pint"]
+	path = repos/asdf-pint
+	url = https://github.com/sam-burrell/asdf-pint
+[submodule "repos/asdf-pipectl"]
+	path = repos/asdf-pipectl
+	url = https://github.com/pipe-cd/asdf-pipectl
+[submodule "repos/asdf-pipx"]
+	path = repos/asdf-pipx
+	url = https://github.com/joe733/asdf-pipx
+[submodule "repos/asdf-please"]
+	path = repos/asdf-please
+	url = https://github.com/asdf-community/asdf-please
+[submodule "repos/asdf-pluto"]
+	path = repos/asdf-pluto
+	url = https://github.com/FairwindsOps/asdf-pluto
+[submodule "repos/asdf-pnpm"]
+	path = repos/asdf-pnpm
+	url = https://github.com/jonathanmorley/asdf-pnpm
+[submodule "repos/asdf-poetry"]
+	path = repos/asdf-poetry
+	url = https://github.com/asdf-community/asdf-poetry
+[submodule "repos/asdf-polaris"]
+	path = repos/asdf-polaris
+	url = https://github.com/particledecay/asdf-polaris
+[submodule "repos/asdf-popeye"]
+	path = repos/asdf-popeye
+	url = https://github.com/nlamirault/asdf-popeye
+[submodule "repos/asdf-postgres"]
+	path = repos/asdf-postgres
+	url = https://github.com/smashedtoatoms/asdf-postgres
+[submodule "repos/asdf-powerline-go"]
+	path = repos/asdf-powerline-go
+	url = https://github.com/dex4er/asdf-powerline-go
+[submodule "repos/asdf-powershell-core"]
+	path = repos/asdf-powershell-core
+	url = https://github.com/daveneeley/asdf-powershell-core
+[submodule "repos/asdf-pre-commit"]
+	path = repos/asdf-pre-commit
+	url = https://github.com/jonathanmorley/asdf-pre-commit
+[submodule "repos/asdf-protoc"]
+	path = repos/asdf-protoc
+	url = https://github.com/paxosglobal/asdf-protoc
+[submodule "repos/asdf-protoc-gen-grpc-web"]
+	path = repos/asdf-protoc-gen-grpc-web
+	url = https://github.com/pbr0ck3r/asdf-protoc-gen-grpc-web
+[submodule "repos/asdf-protoc-gen-go-grpc"]
+	path = repos/asdf-protoc-gen-go-grpc
+	url = https://github.com/pbr0ck3r/asdf-protoc-gen-go-grpc
+[submodule "repos/asdf-protoc-gen-go"]
+	path = repos/asdf-protoc-gen-go
+	url = https://github.com/pbr0ck3r/asdf-protoc-gen-go
+[submodule "repos/asdf-protoc-gen-js"]
+	path = repos/asdf-protoc-gen-js
+	url = https://github.com/pbr0ck3r/asdf-protoc-gen-js
+[submodule "repos/asdf-protolint"]
+	path = repos/asdf-protolint
+	url = https://github.com/spencergilbert/asdf-protolint
+[submodule "repos/asdf-protonge"]
+	path = repos/asdf-protonge
+	url = https://github.com/augustobmoura/asdf-protonge
+[submodule "repos/asdf-psc-package"]
+	path = repos/asdf-psc-package
+	url = https://github.com/nsaunders/asdf-psc-package
+[submodule "repos/asdf-pulumi"]
+	path = repos/asdf-pulumi
+	url = https://github.com/canha/asdf-pulumi
+[submodule "repos/asdf-purerl"]
+	path = repos/asdf-purerl
+	url = https://github.com/GoNZooo/asdf-purerl
+[submodule "repos/asdf-purescript"]
+	path = repos/asdf-purescript
+	url = https://github.com/nsaunders/asdf-purescript
+[submodule "repos/asdf-purty"]
+	path = repos/asdf-purty
+	url = https://github.com/nsaunders/asdf-purty
+[submodule "repos/asdf-python"]
+	path = repos/asdf-python
+	url = https://github.com/danhper/asdf-python
+[submodule "repos/asdf-plugin-qdns"]
+	path = repos/asdf-plugin-qdns
+	url = https://github.com/moritz-makandra/asdf-plugin-qdns
+[submodule "repos/asdf-quarkus"]
+	path = repos/asdf-quarkus
+	url = https://github.com/asdf-community/asdf-quarkus
+[submodule "repos/asdf-r"]
+	path = repos/asdf-r
+	url = https://github.com/asdf-community/asdf-r
+[submodule "repos/asdf-rabbitmq"]
+	path = repos/asdf-rabbitmq
+	url = https://github.com/w-sanches/asdf-rabbitmq
+[submodule "repos/asdf-racket"]
+	path = repos/asdf-racket
+	url = https://github.com/asdf-community/asdf-racket
+[submodule "repos/asdf-raku"]
+	path = repos/asdf-raku
+	url = https://github.com/m-dango/asdf-raku
+[submodule "repos/asdf-rancher"]
+	path = repos/asdf-rancher
+	url = https://github.com/abinet/asdf-rancher
+[submodule "repos/asdf-rbac-lookup"]
+	path = repos/asdf-rbac-lookup
+	url = https://github.com/looztra/asdf-rbac-lookup
+[submodule "repos/asdf-rclone"]
+	path = repos/asdf-rclone
+	url = https://github.com/johnlayton/asdf-rclone
+[submodule "repos/asdf-rebar"]
+	path = repos/asdf-rebar
+	url = https://github.com/Stratus3D/asdf-rebar
+[submodule "repos/asdf-reckoner"]
+	path = repos/asdf-reckoner
+	url = https://github.com/FairwindsOps/asdf-reckoner
+[submodule "repos/asdf-redis"]
+	path = repos/asdf-redis
+	url = https://github.com/smashedtoatoms/asdf-redis
+[submodule "repos/asdf-redis-cli"]
+	path = repos/asdf-redis-cli
+	url = https://github.com/NeoHsu/asdf-redis-cli
+[submodule "repos/asdf-redo"]
+	path = repos/asdf-redo
+	url = https://github.com/chessmango/asdf-redo
+[submodule "repos/asdf-redskyctl"]
+	path = repos/asdf-redskyctl
+	url = https://github.com/sudermanjr/asdf-redskyctl
+[submodule "repos/asdf-reg"]
+	path = repos/asdf-reg
+	url = https://github.com/looztra/asdf-reg
+[submodule "repos/asdf-regctl"]
+	path = repos/asdf-regctl
+	url = https://github.com/ORCID/asdf-regctl
+[submodule "repos/asdf-restic"]
+	path = repos/asdf-restic
+	url = https://github.com/xataz/asdf-restic
+[submodule "repos/asdf-revive"]
+	path = repos/asdf-revive
+	url = https://github.com/bjw-s/asdf-revive
+[submodule "repos/asdf-richgo"]
+	path = repos/asdf-richgo
+	url = https://github.com/paxosglobal/asdf-richgo
+[submodule "repos/asdf-riff"]
+	path = repos/asdf-riff
+	url = https://github.com/abinet/asdf-riff
+[submodule "repos/asdf-ripgrep"]
+	path = repos/asdf-ripgrep
+	url = https://gitlab.com/wt0f/asdf-ripgrep
+[submodule "repos/asdf-rke"]
+	path = repos/asdf-rke
+	url = https://github.com/particledecay/asdf-rke
+[submodule "repos/asdf-rome"]
+	path = repos/asdf-rome
+	url = https://github.com/kichiemon/asdf-rome
+[submodule "repos/asdf-rstash"]
+	path = repos/asdf-rstash
+	url = https://github.com/carlduevel/asdf-rstash
+[submodule "repos/asdf-rlwrap"]
+	path = repos/asdf-rlwrap
+	url = https://github.com/asdf-community/asdf-rlwrap
+[submodule "repos/asdf-ruby"]
+	path = repos/asdf-ruby
+	url = https://github.com/asdf-vm/asdf-ruby
+[submodule "repos/asdf-rust"]
+	path = repos/asdf-rust
+	url = https://github.com/code-lever/asdf-rust
+[submodule "repos/asdf-rust-analyzer"]
+	path = repos/asdf-rust-analyzer
+	url = https://github.com/Xyven1/asdf-rust-analyzer
+[submodule "repos/asdf-rye"]
+	path = repos/asdf-rye
+	url = https://github.com/Azuki-bar/asdf-rye
+[submodule "repos/asdf-saml2aws"]
+	path = repos/asdf-saml2aws
+	url = https://github.com/elementalvoid/asdf-saml2aws
+[submodule "repos/asdf-sbt"]
+	path = repos/asdf-sbt
+	url = https://github.com/bram2000/asdf-sbt
+[submodule "repos/asdf-scala"]
+	path = repos/asdf-scala
+	url = https://github.com/asdf-community/asdf-scala
+[submodule "repos/asdf-plugin-scaleway-cli"]
+	path = repos/asdf-plugin-scaleway-cli
+	url = https://github.com/albarralnunez/asdf-plugin-scaleway-cli
+[submodule "repos/asdf-scalingo-cli"]
+	path = repos/asdf-scalingo-cli
+	url = https://github.com/brandon-welsch/asdf-scalingo-cli
+[submodule "repos/asdf-sccache"]
+	path = repos/asdf-sccache
+	url = https://github.com/emersonmx/asdf-sccache
+[submodule "repos/asdf-scenery"]
+	path = repos/asdf-scenery
+	url = https://github.com/skyzyx/asdf-scenery
+[submodule "repos/asdf-schemacrawler"]
+	path = repos/asdf-schemacrawler
+	url = https://github.com/davidecavestro/asdf-schemacrawler
+[submodule "repos/asdf-seed7"]
+	path = repos/asdf-seed7
+	url = https://github.com/susurri/asdf-seed7
+[submodule "repos/asdf-semgrep"]
+	path = repos/asdf-semgrep
+	url = https://github.com/brentjanderson/asdf-semgrep
+[submodule "repos/asdf-semtag"]
+	path = repos/asdf-semtag
+	url = https://github.com/junminahn/asdf-semtag
+[submodule "repos/asdf-semver"]
+	path = repos/asdf-semver
+	url = https://github.com/mathew-fleisch/asdf-semver
+[submodule "repos/asdf-serverless"]
+	path = repos/asdf-serverless
+	url = https://github.com/pdemagny/asdf-serverless
+[submodule "repos/asdf-shell2http"]
+	path = repos/asdf-shell2http
+	url = https://github.com/ORCID/asdf-shell2http
+[submodule "repos/asdf-shellcheck"]
+	path = repos/asdf-shellcheck
+	url = https://github.com/luizm/asdf-shellcheck
+[submodule "repos/asdf-shellspec"]
+	path = repos/asdf-shellspec
+	url = https://github.com/poikilotherm/asdf-shellspec
+[submodule "repos/asdf-shfmt"]
+	path = repos/asdf-shfmt
+	url = https://github.com/luizm/asdf-shfmt
+[submodule "repos/asdf-sinker"]
+	path = repos/asdf-sinker
+	url = https://github.com/elementalvoid/asdf-sinker
+[submodule "repos/asdf-skaffold"]
+	path = repos/asdf-skaffold
+	url = https://github.com/nklmilojevic/asdf-skaffold
+[submodule "repos/asdf-skate"]
+	path = repos/asdf-skate
+	url = https://github.com/chessmango/asdf-skate
+[submodule "repos/asdf-sloth"]
+	path = repos/asdf-sloth
+	url = https://github.com/slok/asdf-sloth
+[submodule "repos/asdf-smithy"]
+	path = repos/asdf-smithy
+	url = https://github.com/aws/asdf-smithy
+[submodule "repos/asdf-smlnj"]
+	path = repos/asdf-smlnj
+	url = https://github.com/samontea/asdf-smlnj
+[submodule "repos/asdf-snyk"]
+	path = repos/asdf-snyk
+	url = https://github.com/nirfuchs/asdf-snyk
+[submodule "repos/asdf-soft-serve"]
+	path = repos/asdf-soft-serve
+	url = https://github.com/chessmango/asdf-soft-serve
+[submodule "repos/asdf-solidity"]
+	path = repos/asdf-solidity
+	url = https://github.com/diegodorado/asdf-solidity
+[submodule "repos/asdf-sops"]
+	path = repos/asdf-sops
+	url = https://github.com/feniix/asdf-sops
+[submodule "repos/asdf-sopstool"]
+	path = repos/asdf-sopstool
+	url = https://github.com/elementalvoid/asdf-sopstool
+[submodule "repos/asdf-soracom"]
+	path = repos/asdf-soracom
+	url = https://github.com/grimoh/asdf-soracom
+[submodule "repos/asdf-sourcery"]
+	path = repos/asdf-sourcery
+	url = https://github.com/younke/asdf-sourcery
+[submodule "repos/asdf-spacectl"]
+	path = repos/asdf-spacectl
+	url = https://github.com/bodgit/asdf-spacectl
+[submodule "repos/asdf-spago"]
+	path = repos/asdf-spago
+	url = https://github.com/nsaunders/asdf-spago
+[submodule "repos/asdf-spark"]
+	path = repos/asdf-spark
+	url = https://github.com/joshuaballoch/asdf-spark
+[submodule "repos/asdf-spectral"]
+	path = repos/asdf-spectral
+	url = https://github.com/vbyrd/asdf-spectral
+[submodule "repos/asdf-spin"]
+	path = repos/asdf-spin
+	url = https://github.com/pavloos/asdf-spin
+[submodule "repos/asdf-spring-boot"]
+	path = repos/asdf-spring-boot
+	url = https://github.com/joschi/asdf-spring-boot
+[submodule "repos/asdf-spruce"]
+	path = repos/asdf-spruce
+	url = https://github.com/woneill/asdf-spruce
+[submodule "repos/asdf-sqldef"]
+	path = repos/asdf-sqldef
+	url = https://github.com/cometkim/asdf-sqldef
+[submodule "repos/asdf-sqlite"]
+	path = repos/asdf-sqlite
+	url = https://github.com/cLupus/asdf-sqlite
+[submodule "repos/asdf-sshuttle"]
+	path = repos/asdf-sshuttle
+	url = https://github.com/xanmanning/asdf-sshuttle
+[submodule "repos/asdf-ghcup"]
+	path = repos/asdf-ghcup
+	url = https://github.com/sestrella/asdf-ghcup
+[submodule "repos/asdf-starboard"]
+	path = repos/asdf-starboard
+	url = https://github.com/zufardhiyaulhaq/asdf-starboard
+[submodule "repos/asdf-starport"]
+	path = repos/asdf-starport
+	url = https://github.com/nikever/asdf-starport
+[submodule "repos/asdf-starship"]
+	path = repos/asdf-starship
+	url = https://github.com/grimoh/asdf-starship
+[submodule "repos/asdf-steampipe"]
+	path = repos/asdf-steampipe
+	url = https://github.com/carnei-ro/asdf-steampipe
+[submodule "repos/asdf-sbcl"]
+	path = repos/asdf-sbcl
+	url = https://github.com/smashedtoatoms/asdf-sbcl
+[submodule "repos/asdf-step"]
+	path = repos/asdf-step
+	url = https://github.com/log2/asdf-step
+[submodule "repos/asdf-stern"]
+	path = repos/asdf-stern
+	url = https://github.com/looztra/asdf-stern
+[submodule "repos/asdf-stripe"]
+	path = repos/asdf-stripe
+	url = https://github.com/offbyone/asdf-stripe
+[submodule "repos/asdf-stylua"]
+	path = repos/asdf-stylua
+	url = https://github.com/jc00ke/asdf-stylua
+[submodule "repos/asdf-svu"]
+	path = repos/asdf-svu
+	url = https://github.com/asdf-community/asdf-svu
+[submodule "repos/asdf-swag"]
+	path = repos/asdf-swag
+	url = https://github.com/behoof4mind/asdf-swag
+[submodule "repos/asdf-swift"]
+	path = repos/asdf-swift
+	url = https://github.com/fcrespo82/asdf-swift
+[submodule "repos/asdf-swiftformat"]
+	path = repos/asdf-swiftformat
+	url = https://github.com/younke/asdf-swiftformat
+[submodule "repos/asdf-swiftgen"]
+	path = repos/asdf-swiftgen
+	url = https://github.com/younke/asdf-swiftgen
+[submodule "repos/asdf-swiftlint"]
+	path = repos/asdf-swiftlint
+	url = https://github.com/klundberg/asdf-swiftlint
+[submodule "repos/asdf-swiprolog"]
+	path = repos/asdf-swiprolog
+	url = https://github.com/mracos/asdf-swiprolog
+[submodule "repos/asdf-syft"]
+	path = repos/asdf-syft
+	url = https://github.com/davidgp1701/asdf-syft
+[submodule "repos/syncher"]
+	path = repos/syncher
+	url = https://github.com/nwillc/syncher
+[submodule "repos/asdf-talhelper"]
+	path = repos/asdf-talhelper
+	url = https://github.com/bjw-s/asdf-talhelper
+[submodule "repos/asdf-talos"]
+	path = repos/asdf-talos
+	url = https://github.com/particledecay/asdf-talos
+[submodule "repos/asdf-talosctl"]
+	path = repos/asdf-talosctl
+	url = https://github.com/bjw-s/asdf-talosctl
+[submodule "repos/asdf-tanka"]
+	path = repos/asdf-tanka
+	url = https://github.com/trotttrotttrott/asdf-tanka
+[submodule "repos/asdf-task"]
+	path = repos/asdf-task
+	url = https://github.com/particledecay/asdf-task
+[submodule "repos/asdf-tctl"]
+	path = repos/asdf-tctl
+	url = https://github.com/eko/asdf-tctl
+[submodule "repos/asdf-tekton-cli"]
+	path = repos/asdf-tekton-cli
+	url = https://github.com/johnhamelink/asdf-tekton-cli
+[submodule "repos/asdf-teleport-ent"]
+	path = repos/asdf-teleport-ent
+	url = https://github.com/highb/asdf-teleport-ent
+[submodule "repos/asdf-teleport-community"]
+	path = repos/asdf-teleport-community
+	url = https://github.com/MaloPolese/asdf-teleport-community
+[submodule "repos/asdf-telepresence"]
+	path = repos/asdf-telepresence
+	url = https://github.com/pirackr/asdf-telepresence
+[submodule "repos/asdf-teller"]
+	path = repos/asdf-teller
+	url = https://github.com/pdemagny/asdf-teller
+[submodule "repos/asdf-temporalite"]
+	path = repos/asdf-temporalite
+	url = https://github.com/eko/asdf-temporalite
+[submodule "repos/asdf-terradozer"]
+	path = repos/asdf-terradozer
+	url = https://github.com/chessmango/asdf-terradozer
+[submodule "repos/asdf-terraform-docs"]
+	path = repos/asdf-terraform-docs
+	url = https://github.com/looztra/asdf-terraform-docs
+[submodule "repos/asdf-terraform-lsp"]
+	path = repos/asdf-terraform-lsp
+	url = https://github.com/bartlomiejdanek/asdf-terraform-lsp
+[submodule "repos/asdf-terraform-validator"]
+	path = repos/asdf-terraform-validator
+	url = https://github.com/looztra/asdf-terraform-validator
+[submodule "repos/asdf-terraformer"]
+	path = repos/asdf-terraformer
+	url = https://github.com/grimoh/asdf-terraformer
+[submodule "repos/asdf-terragrunt"]
+	path = repos/asdf-terragrunt
+	url = https://github.com/ohmer/asdf-terragrunt
+[submodule "repos/asdf-terramate"]
+	path = repos/asdf-terramate
+	url = https://github.com/martinlindner/asdf-terramate
+[submodule "repos/asdf-terrascan"]
+	path = repos/asdf-terrascan
+	url = https://github.com/hpdobrica/asdf-terrascan
+[submodule "repos/asdf-tfctl"]
+	path = repos/asdf-tfctl
+	url = https://github.com/deas/asdf-tfctl
+[submodule "repos/asdf-tfenv"]
+	path = repos/asdf-tfenv
+	url = https://github.com/carlduevel/asdf-tfenv
+[submodule "repos/asdf-tflint"]
+	path = repos/asdf-tflint
+	url = https://github.com/skyzyx/asdf-tflint
+[submodule "repos/asdf-tfmigrate"]
+	path = repos/asdf-tfmigrate
+	url = https://github.com/dex4er/asdf-tfmigrate
+[submodule "repos/asdf-tfnotify"]
+	path = repos/asdf-tfnotify
+	url = https://github.com/jnavarrof/asdf-tfnotify
+[submodule "repos/asdf-tfsec"]
+	path = repos/asdf-tfsec
+	url = https://github.com/woneill/asdf-tfsec
+[submodule "repos/asdf-tfstate-lookup"]
+	path = repos/asdf-tfstate-lookup
+	url = https://github.com/carnei-ro/asdf-tfstate-lookup
+[submodule "repos/asdf-tfswitch"]
+	path = repos/asdf-tfswitch
+	url = https://github.com/iul1an/asdf-tfswitch
+[submodule "repos/asdf-tfupdate"]
+	path = repos/asdf-tfupdate
+	url = https://github.com/yuokada/asdf-tfupdate
+[submodule "repos/asdf-tf-summarize"]
+	path = repos/asdf-tf-summarize
+	url = https://github.com/adamcrews/asdf-tf-summarize
+[submodule "repos/asdf-thrift"]
+	path = repos/asdf-thrift
+	url = https://github.com/alisaifee/asdf-thrift
+[submodule "repos/asdf-tilt"]
+	path = repos/asdf-tilt
+	url = https://github.com/eaceaser/asdf-tilt
+[submodule "repos/asdf-timoni"]
+	path = repos/asdf-timoni
+	url = https://github.com/Smana/asdf-timoni
+[submodule "repos/asdf-titan"]
+	path = repos/asdf-titan
+	url = https://github.com/gabitchov/asdf-titan
+[submodule "repos/asdf-tlsgcli"]
+	path = repos/asdf-tlsgcli
+	url = https://github.com/0ghny/asdf-tlsgcli
+[submodule "repos/asdf-tmux"]
+	path = repos/asdf-tmux
+	url = https://github.com/aphecetche/asdf-tmux
+[submodule "repos/asdf-tokei"]
+	path = repos/asdf-tokei
+	url = https://github.com/gasuketsu/asdf-tokei
+[submodule "repos/asdf-tomcat"]
+	path = repos/asdf-tomcat
+	url = https://github.com/mbutov/asdf-tomcat
+[submodule "repos/asdf-tonnage"]
+	path = repos/asdf-tonnage
+	url = https://github.com/elementalvoid/asdf-tonnage
+[submodule "repos/tool-versions-to-env-action"]
+	path = repos/tool-versions-to-env-action
+	url = https://github.com/smartcontractkit/tool-versions-to-env-action
+[submodule "repos/asdf-trdsql"]
+	path = repos/asdf-trdsql
+	url = https://github.com/johnlayton/asdf-trdsql
+[submodule "repos/asdf-tree-sitter"]
+	path = repos/asdf-tree-sitter
+	url = https://github.com/ivanvc/asdf-tree-sitter
+[submodule "repos/asdf-tridentctl"]
+	path = repos/asdf-tridentctl
+	url = https://github.com/asdf-community/asdf-tridentctl
+[submodule "repos/asdf-trivy"]
+	path = repos/asdf-trivy
+	url = https://github.com/zufardhiyaulhaq/asdf-trivy
+[submodule "repos/asdf-tsuru"]
+	path = repos/asdf-tsuru
+	url = https://github.com/virtualstaticvoid/asdf-tsuru
+[submodule "repos/asdf-ttyd"]
+	path = repos/asdf-ttyd
+	url = https://github.com/ivanvc/asdf-ttyd
+[submodule "repos/asdf-tuist"]
+	path = repos/asdf-tuist
+	url = https://github.com/cprecioso/asdf-tuist
+[submodule "repos/asdf-transifex"]
+	path = repos/asdf-transifex
+	url = https://github.com/ORCID/asdf-transifex
+[submodule "repos/asdf-unison"]
+	path = repos/asdf-unison
+	url = https://github.com/susurri/asdf-unison
+[submodule "repos/asdf-upt"]
+	path = repos/asdf-upt
+	url = https://github.com/ORCID/asdf-upt
+[submodule "repos/asdf-upx"]
+	path = repos/asdf-upx
+	url = https://github.com/jimmidyson/asdf-upx
+[submodule "repos/asdf-usql"]
+	path = repos/asdf-usql
+	url = https://github.com/itspngu/asdf-usql
+[submodule "repos/asdf-v"]
+	path = repos/asdf-v
+	url = https://github.com/jthegedus/asdf-v
+[submodule "repos/asdf-vale"]
+	path = repos/asdf-vale
+	url = https://github.com/pdemagny/asdf-vale
+[submodule "repos/asdf-vals"]
+	path = repos/asdf-vals
+	url = https://github.com/dex4er/asdf-vals
+[submodule "repos/asdf-velero"]
+	path = repos/asdf-velero
+	url = https://github.com/looztra/asdf-velero
+[submodule "repos/asdf-venom"]
+	path = repos/asdf-venom
+	url = https://github.com/aabouzaid/asdf-venom
+[submodule "repos/asdf-vcluster"]
+	path = repos/asdf-vcluster
+	url = https://gitlab.com/wt0f/asdf-vcluster
+[submodule "repos/asdf-vela"]
+	path = repos/asdf-vela
+	url = https://github.com/pdemagny/asdf-vela
+[submodule "repos/asdf-velad"]
+	path = repos/asdf-velad
+	url = https://github.com/pdemagny/asdf-velad
+[submodule "repos/asdf-vhs"]
+	path = repos/asdf-vhs
+	url = https://github.com/chessmango/asdf-vhs
+[submodule "repos/asdf-viddy"]
+	path = repos/asdf-viddy
+	url = https://github.com/ryodocx/asdf-viddy
+[submodule "repos/asdf-vim"]
+	path = repos/asdf-vim
+	url = https://github.com/tsuyoshicho/asdf-vim
+[submodule "repos/asdf-vultr-cli"]
+	path = repos/asdf-vultr-cli
+	url = https://github.com/ikuradon/asdf-vultr-cli
+[submodule "repos/asdf-watchexec"]
+	path = repos/asdf-watchexec
+	url = https://github.com/nyrst/asdf-watchexec
+[submodule "repos/asdf-wasi-sdk"]
+	path = repos/asdf-wasi-sdk
+	url = https://github.com/coolreader18/asdf-wasi-sdk
+[submodule "repos/asdf-wasm4"]
+	path = repos/asdf-wasm4
+	url = https://github.com/jtakakura/asdf-wasm4
+[submodule "repos/asdf-wasm3"]
+	path = repos/asdf-wasm3
+	url = https://github.com/tachyonicbytes/asdf-wasm3
+[submodule "repos/asdf-wasmer"]
+	path = repos/asdf-wasmer
+	url = https://github.com/tachyonicbytes/asdf-wasmer
+[submodule "repos/asdf-wasmtime"]
+	path = repos/asdf-wasmtime
+	url = https://github.com/tachyonicbytes/asdf-wasmtime
+[submodule "repos/asdf-weave-gitops"]
+	path = repos/asdf-weave-gitops
+	url = https://github.com/deas/asdf-weave-gitops
+[submodule "repos/asdf-websocat"]
+	path = repos/asdf-websocat
+	url = https://github.com/bdellegrazie/asdf-websocat
+[submodule "repos/asdf-wren-cli"]
+	path = repos/asdf-wren-cli
+	url = https://github.com/jtakakura/asdf-wren-cli
+[submodule "repos/asdf-wrk"]
+	path = repos/asdf-wrk
+	url = https://github.com/ivanvc/asdf-wrk
+[submodule "repos/asdf-wtfutil"]
+	path = repos/asdf-wtfutil
+	url = https://github.com/NeoHsu/asdf-wtfutil
+[submodule "repos/asdf-xchtmlreport"]
+	path = repos/asdf-xchtmlreport
+	url = https://github.com/younke/asdf-xchtmlreport
+[submodule "repos/asdf-xcodegen"]
+	path = repos/asdf-xcodegen
+	url = https://github.com/younke/asdf-xcodegen
+[submodule "repos/asdf-xc"]
+	path = repos/asdf-xc
+	url = https://github.com/airtonix/asdf-xc
+[submodule "repos/asdf-xcodes"]
+	path = repos/asdf-xcodes
+	url = https://github.com/younke/asdf-xcodes
+[submodule "repos/asdf-xh"]
+	path = repos/asdf-xh
+	url = https://github.com/NeoHsu/asdf-xh
+[submodule "repos/asdf-yadm"]
+	path = repos/asdf-yadm
+	url = https://github.com/particledecay/asdf-yadm
+[submodule "repos/asdf-yamlfmt"]
+	path = repos/asdf-yamlfmt
+	url = https://github.com/kachick/asdf-yamlfmt
+[submodule "repos/asdf-yamllint"]
+	path = repos/asdf-yamllint
+	url = https://github.com/ericcornelissen/asdf-yamllint
+[submodule "repos/asdf-yarn"]
+	path = repos/asdf-yarn
+	url = https://github.com/twuni/asdf-yarn
+[submodule "repos/asdf-yay"]
+	path = repos/asdf-yay
+	url = https://github.com/aaaaninja/asdf-yay
+[submodule "repos/asdf-yor"]
+	path = repos/asdf-yor
+	url = https://github.com/ordinaryexperts/asdf-yor
+[submodule "repos/asdf-youtube-dl"]
+	path = repos/asdf-youtube-dl
+	url = https://github.com/iul1an/asdf-youtube-dl
+[submodule "repos/asdf-yj"]
+	path = repos/asdf-yj
+	url = https://github.com/ryodocx/asdf-yj
+[submodule "repos/asdf-yq"]
+	path = repos/asdf-yq
+	url = https://github.com/sudermanjr/asdf-yq
+[submodule "repos/asdf-zbctl"]
+	path = repos/asdf-zbctl
+	url = https://github.com/camunda-community-hub/asdf-zbctl
+[submodule "repos/asdf-zellij"]
+	path = repos/asdf-zellij
+	url = https://github.com/chessmango/asdf-zellij
+[submodule "repos/asdf-zephyr"]
+	path = repos/asdf-zephyr
+	url = https://github.com/nsaunders/asdf-zephyr
+[submodule "repos/asdf-zig"]
+	path = repos/asdf-zig
+	url = https://github.com/cheetah/asdf-zig
+[submodule "repos/asdf-zigmod"]
+	path = repos/asdf-zigmod
+	url = https://github.com/kachick/asdf-zigmod
+[submodule "repos/asdf-zola"]
+	path = repos/asdf-zola
+	url = https://github.com/salasrod/asdf-zola
+[submodule "repos/asdf-zoxide"]
+	path = repos/asdf-zoxide
+	url = https://github.com/nyrst/asdf-zoxide
+[submodule "repos/asdf-zprint"]
+	path = repos/asdf-zprint
+	url = https://github.com/carlduevel/asdf-zprint
